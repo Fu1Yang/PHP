@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+.pageForm {
+    width: 380px;
+    height: 250px;
+    margin-top: 10%;
+    margin-left: 40%;
+    margin-right: 45%;
+}
+
+
+form {
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+}
+
+form button {
+    background-color: black;
+    color: white;
+}
+form button:hover {
+    background-color: blue;
+    color: rgb(26, 255, 0);
+}
